@@ -5,7 +5,6 @@
 
 # dotenv files
 .env
-/README.md
 
 # User-specific files
 *.rsuser
