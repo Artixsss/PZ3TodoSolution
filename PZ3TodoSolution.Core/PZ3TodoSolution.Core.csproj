@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>PZ3TodoSolution.Core</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Artixs</Authors>
+    <Company>PZ3</Company>
+    <Description>Training Todo library (PZ3)</Description>
   </PropertyGroup>
 
 </Project>
